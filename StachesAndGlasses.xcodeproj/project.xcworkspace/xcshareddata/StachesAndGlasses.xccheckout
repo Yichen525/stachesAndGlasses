@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5D6831BB-944F-4BA4-BBAE-52C09098EC4E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>StachesAndGlasses</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>994F13CA-2C36-49AB-82DE-0D5EA49BF15B</key>
+		<string>https://github.com/chouchangke525/StachesAndGlasses.git</string>
+		<key>C1FB8317-4870-4DD2-8DEA-41397A18B38A</key>
+		<string>https://github.com/Yichen525/stachesAndGlasses.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>StachesAndGlasses.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>994F13CA-2C36-49AB-82DE-0D5EA49BF15B</key>
+		<string>../../../iOS new/StachesAndGlasses</string>
+		<key>C1FB8317-4870-4DD2-8DEA-41397A18B38A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Yichen525/stachesAndGlasses.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C1FB8317-4870-4DD2-8DEA-41397A18B38A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C1FB8317-4870-4DD2-8DEA-41397A18B38A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>stachesAndGlasses</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>994F13CA-2C36-49AB-82DE-0D5EA49BF15B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>StachesAndGlasses</string>
+		</dict>
+	</array>
+</dict>
+</plist>
